@@ -1,4 +1,4 @@
-
+; Answer based on http://community.schemewiki.org/?sicp-ex-1.22
 (define (smallest-divisor n)
   (find-divisor n 2))
 (define (find-divisor n test-divisor)
