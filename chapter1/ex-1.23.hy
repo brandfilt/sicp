@@ -1,4 +1,3 @@
-(import [__future__ [TailRec]])
 (import [time [time]])
 
 (defn smallest-divisor [n]
